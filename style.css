@@ -1,0 +1,30 @@
+h1 { 
+background-color: rgb(238, 245, 243); 
+justify-content: 'Center';
+color: brown;
+}
+.header{
+   display: flex;
+    background: cornsilk;
+    Justify-content: center;
+}
+.feather{
+    display:flex;
+    background: lightcoral;
+    Justify-content: center;
+    align-items: center;  
+}
+.neither{
+    display: flex;
+    background: lightpink;
+    Justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+}
+.teather{
+    display: flex;
+    background: yellowgreen;
+    font-size: xx-large;
+    Justify-content: center;
+    align-items: center;
+}
